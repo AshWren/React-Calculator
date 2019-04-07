@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryShadowView.m \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryShadowView.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/ios/build/ReactCalculator2/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/ios/build/ReactCalculator2/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/ios/build/ReactCalculator2/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/ios/build/ReactCalculator2/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/ios/build/ReactCalculator2/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/ios/build/ReactCalculator2/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/ios/build/ReactCalculator2/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/ios/build/ReactCalculator2/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/ios/build/ReactCalculator2/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/ios/build/ReactCalculator2/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/ios/build/ReactCalculator2/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/ios/build/ReactCalculator2/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/ios/build/ReactCalculator2/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/ios/build/ReactCalculator2/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/ios/build/ReactCalculator2/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/ios/build/ReactCalculator2/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/ios/build/ReactCalculator2/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h

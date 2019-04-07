@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.m \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Views/RCTLayout.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/ios/build/ReactCalculator2/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/ios/build/ReactCalculator2/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/ios/build/ReactCalculator2/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/ios/build/ReactCalculator2/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowViewDelegate.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Modules/RCTI18nUtil.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Views/RCTShadowView+Layout.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Modules/RCTUIManagerUtils.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Base/RCTAssert.h

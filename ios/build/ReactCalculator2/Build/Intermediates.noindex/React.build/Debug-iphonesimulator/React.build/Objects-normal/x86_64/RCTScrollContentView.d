@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.m \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Views/RCTView.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/ios/build/ReactCalculator2/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/ios/build/ReactCalculator2/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Views/ScrollView/RCTScrollView.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/rachelstuckey/ReactCalculator2.0/ReactCalculator2/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h

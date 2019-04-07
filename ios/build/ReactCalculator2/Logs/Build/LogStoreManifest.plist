@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>6AD0410B-E504-41B9-A95E-8788C92BCCBD</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6AD0410B-E504-41B9-A95E-8788C92BCCBD.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ReactCalculator2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ReactCalculator2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project ReactCalculator2 with scheme ReactCalculator2 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>576337145.43641603</real>
+			<key>timeStoppedRecording</key>
+			<real>576337152.90287602</real>
+			<key>title</key>
+			<string>Building project ReactCalculator2 with scheme ReactCalculator2 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>6AD0410B-E504-41B9-A95E-8788C92BCCBD</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
